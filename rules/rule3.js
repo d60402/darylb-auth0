@@ -1,4 +1,4 @@
 function (user, context, callback) {
-    console.log('*** Rule 2 ***');
+    console.log('*** Empty rule edited ***');
     callback(null, user, context);
 }
